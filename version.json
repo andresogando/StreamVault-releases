@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionName": "1.2.0",
-  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.2.0/app-release.apk",
-  "releaseNotes": "Release v1.2.0: Xtream-smart import and Obsidian Cinema UI.\n\nAuto-detect get.php URLs and import via player_api.php with M3U fallback, add stream headers and playback hardening, and rebuild navigation and screens around the Obsidian Cinema shell.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "latestVersionCode": 5,
+  "latestVersionName": "1.2.2",
+  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.2.2/app-release.apk",
+  "releaseNotes": "Release v1.2.2 (versionCode 5)\n\nAdd Fire TV-style update modal on launch when a newer build is available.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
