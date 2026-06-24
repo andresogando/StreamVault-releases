@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
-  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.0.0/app-release.apk",
-  "releaseNotes": "Fix M3U import reliability + Apple TV UI redesign\n\n- Harden playlist import: VLC User-Agent, uncapped body size, content\n  validation (HTML/JSON/empty detection), Xtream auth check, and clear\n  user-facing error messages instead of vague network failures.\n- Surface imported channel count and rich success/error feedback in the\n  Add Playlist screen; roll back ghost playlist rows on failure.\n- Apple TV-style theme tokens (palette, pill radii, focus colors) and\n  focus treatment (lift/glow, bright fill) across RemoteFocusable,\n  FocusableButton, and TextField.\n- Replace the tab bar with a custom Apple TV top menu that makes focus\n  obvious while navigating.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1.0",
+  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.1.0/app-release.apk",
+  "releaseNotes": "Release v1.1.0 (versionCode 2)\n\nBump version so in-app updater prompts users on devices still on 1.0.0.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
