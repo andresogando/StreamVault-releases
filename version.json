@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.0/app-release.apk",
-  "releaseNotes": "Initial public release of StreamVault."
+  "latestVersionName": "1.0.0",
+  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.0.0/app-release.apk",
+  "releaseNotes": "Fix CI version parsing: integer code vs semver name"
 }
