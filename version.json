@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.2.2",
-  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.2.2/app-release.apk",
-  "releaseNotes": "Release v1.2.2 (versionCode 5)\n\nAdd Fire TV-style update modal on launch when a newer build is available.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
+  "latestVersionCode": 6,
+  "latestVersionName": "1.2.3",
+  "apkUrl": "https://github.com/andresogando/StreamVault-releases/releases/download/v1.2.3/app-release.apk",
+  "releaseNotes": "Release v1.2.3 (versionCode 6)\n\nFix import Done navigation to Home, VOD success counts, form focus clipping, VOD DB writes, and hardened update prompts with retries on Fire TV.\n\nCo-authored-by: Cursor <cursoragent@cursor.com>"
 }
